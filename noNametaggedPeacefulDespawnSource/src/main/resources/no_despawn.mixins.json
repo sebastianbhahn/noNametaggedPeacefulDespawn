@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "no.named.despawn.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+	"noDespawnMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
