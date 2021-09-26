@@ -10,4 +10,4 @@ Unlicense
 
 ## Dependencies
 
-requires fabric api
+requires fabric Modloader
