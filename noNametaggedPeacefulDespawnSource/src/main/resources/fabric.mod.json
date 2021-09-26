@@ -13,9 +13,7 @@
   "icon": "assets/no_despawn/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "no.named.despawn.NoDespawn"
-    ],
+    "main": [],
     "client": [],
     "server": []
   },
