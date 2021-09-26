@@ -8,7 +8,9 @@
     "sinept"
   ],
   "contributors": [],
-  "contact": {},
+  "contact": {
+    "source": "https://github.com/sebastianbhahn/noNametaggedPeacefulDespawn"
+  },
   "license": "unlicense",
   "icon": "assets/no_despawn/icon.png",
   "environment": "*",
