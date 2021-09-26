@@ -8,3 +8,7 @@ Tiny mod to prevent hostile mobs named with a nametag from despawning when switc
 
 Unlicense
 
+##
+
+Requires Fabric Modloader
+
