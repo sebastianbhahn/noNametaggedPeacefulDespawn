@@ -30,6 +30,5 @@
   },
   "suggests": {
     "another-mod": "*"
-  },
-   "accessWidener" : "no_despawn.accesswidener"
+  }
 }
