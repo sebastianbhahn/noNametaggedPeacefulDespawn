@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "no_despawn",
+  "version": "1.18-1.18.1",
+  "name": "NoDespawn",
+  "description": "nametagged hostile mobs do not despawn in peaceful mode",
+   "authors": [
+    "sinept"
+  ],
+  "contributors": [],
+  "contact": {
+    "source": "https://github.com/sebastianbhahn/noNametaggedPeacefulDespawn"
+  },
+  "license": "unlicense",
+  "icon": "assets/no_despawn/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "no_despawn.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": ">=1.18  <1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
