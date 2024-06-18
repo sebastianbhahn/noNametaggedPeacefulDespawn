@@ -10,4 +10,4 @@ Unlicense
 
 ## Dependencies
 
-requires fabric Modloader
+requires forge Modloader
