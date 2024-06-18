@@ -10,5 +10,5 @@ Unlicense
 
 ##
 
-Requires Fabric Modloader
+Requires Forge Modloader
 
