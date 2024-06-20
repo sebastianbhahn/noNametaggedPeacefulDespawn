@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "no.named.despawn.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "no_despawn.refmap.json",
+	"mixins": [
+		"noDespawnMixin"
+	],
+	"client": [],
+	"minVersion": "0.8"
+}
