@@ -10,4 +10,4 @@ Unlicense
 
 ## Dependencies
 
-requires forge Modloader
+requires neoforge Modloader
